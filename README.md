@@ -14,8 +14,10 @@ const jerryowusu = {
   code: [JavaScript, React, Redux, NodeJs, Ruby, Ruby on Rails, HTML5, CSS3, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Beach, health and wellness, joy and happiness],
-  challenge: "I am upgrading my React and NodeJs skills",
-  funFacts: ['Upgrading to rock the world', 
-  'grab me before it's too late']
+  challenge: "I am upgrading my skills to become one of the best developers at Microverse",
+  funFacts: ['Upgrading to rock the world grab me before it's too late']
 }
 ```
+### Github stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jerryowusu&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&langs_count=5&theme=tokyonight)]()
