@@ -22,17 +22,16 @@ const jerryowusu = {
 
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryowusu&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=shades-of-purple&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=solarized-dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-<div align=center>
+<div >
     <a href="https://github.com/kkvanonymous/github-readme-stats">
-       <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+       <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="70%"/>
     </a>
   </div>
 <br><br>
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
 <br>
-[rails](https://user-images.githubusercontent.com/65233860/154794070-f8e41780-4d5e-427c-a607-48e3bab7003e.svg)
+ <code><img height="50" src="https://user-images.githubusercontent.com/65233860/154794070-f8e41780-4d5e-427c-a607-48e3bab7003e.svg)" alt="Rails"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
@@ -48,6 +47,6 @@ const jerryowusu = {
 <code><img height="50" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESLint"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest"></code>
 </p>
