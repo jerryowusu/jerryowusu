@@ -18,6 +18,12 @@ const jerryowusu = {
   funFacts: ['Upgrading to rock the world grab me before it's too late']
 }
 ```
-### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jerryowusu&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&langs_count=5&theme=tokyonight)]()
+### MY GITHUB STATISTICS
+
+[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryowusu&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### WHAT I'VE BEEN UPTO THIS WEEK
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jerryowusu&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/jerryowusu/github-readme-stats)
