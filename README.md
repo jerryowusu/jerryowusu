@@ -1,7 +1,7 @@
 <h2> Hi, I'm Jerry Owusu! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <br><br>
 
-![matrix](https://user-images.githubusercontent.com/65233860/154794267-d1cd0654-f685-4bbd-a488-7678b45186c3.svg)
+![Developer](https://user-images.githubusercontent.com/65233860/154794817-4b9afd43-db1e-4942-b9e4-c234eeaef197.gif)
 
 <!-- <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"> -->
 <p><em>Full-Stack ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
