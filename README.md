@@ -1,7 +1,9 @@
+<h2> Hi, I'm Jerry Owusu! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<br><br>
+
 ![matrix](https://user-images.githubusercontent.com/65233860/154794267-d1cd0654-f685-4bbd-a488-7678b45186c3.svg)
 
-<h2> Hi, I'm Jerry Owusu! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"> -->
 <p><em>Full-Stack ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jerry%20Owusu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gh.linkedin.com/in/jeremiah-owusu-b50a70173/)](https://www.linkedin.com/in/jeremiah-owusu-b50a70173)
@@ -23,17 +25,20 @@ const jerryowusu = {
 ### MY GITHUB STATISTICS
 
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryowusu&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=shades-of-purple&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=solarized-dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+
 <div >
     <a href="https://github.com/kkvanonymous/github-readme-stats">
-       <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="70%"/>
+       <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
     </a>
   </div>
+  
+  
 <br><br>
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
 <br>
- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/65233860/154794070-f8e41780-4d5e-427c-a607-48e3bab7003e.svg)" alt="Rails"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
