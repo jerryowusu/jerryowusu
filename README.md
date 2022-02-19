@@ -32,7 +32,7 @@ const jerryowusu = {
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
 <br>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rails/rails-icon.svg" alt="rails"></code>  
+[rails](https://user-images.githubusercontent.com/65233860/154794070-f8e41780-4d5e-427c-a607-48e3bab7003e.svg)
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
