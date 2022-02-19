@@ -22,9 +22,9 @@ const jerryowusu = {
 
 [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryowusu&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=shades-of-purple&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=solarized-dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align=center>
     <a href="https://github.com/kkvanonymous/github-readme-stats">
+       <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryowusu&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
