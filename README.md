@@ -1,3 +1,5 @@
+![matrix](https://user-images.githubusercontent.com/65233860/154794267-d1cd0654-f685-4bbd-a488-7678b45186c3.svg)
+
 <h2> Hi, I'm Jerry Owusu! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Full-Stack ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
@@ -31,7 +33,7 @@ const jerryowusu = {
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
 <br>
- <code><img height="50" src="https://user-images.githubusercontent.com/65233860/154794070-f8e41780-4d5e-427c-a607-48e3bab7003e.svg)" alt="Rails"></code>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/65233860/154794070-f8e41780-4d5e-427c-a607-48e3bab7003e.svg)" alt="Rails"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
