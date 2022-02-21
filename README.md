@@ -18,7 +18,7 @@ const jerryowusu = {
   code: [JavaScript, React, Redux, NodeJs, Ruby, Ruby on Rails, HTML5, CSS3, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Beach, health and wellness, joy and happiness],
-  challenge: "I am upgrading my skills to become one of the best developers at Microverse",
+  challenge: "I am upgrading my skills at Microverse to become one of the best developers in the world",
   funFacts: ['Upgrading to rock the world, grab me before it's too late']
 }
 ```
