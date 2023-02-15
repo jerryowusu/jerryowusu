@@ -19,7 +19,7 @@ const jerryowusu = {
   "Tailwind CSS"],
   askMeAbout: ["beach and swimming", "health and wellness", "joy and happiness", "music and dancing"],
   challenge: "I am upgrading my skills to become one of the best developers in the world",
-  funFacts: ['Enjoying a second of the day']
+  funFacts: ['Enjoying every moment, one second and at time']
 }
 ```
 ### MY GITHUB STATISTICS
