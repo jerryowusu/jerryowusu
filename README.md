@@ -14,12 +14,12 @@
 
 ```javascript
 const jerryowusu = {
-  lookingFor: "Front-end developer" || Back-end || "Full-stack developer",
-  code: [JavaScript, React, Redux, NodeJs, Ruby, Ruby on Rails, HTML5, CSS3, Bootstrap, 
-  Tailwind CSS],
-  askMeAbout: [Beach, health and wellness, joy and happiness],
+  lookingForRolesAs: "Front-end developer" || "Back-end developer" || "Full-stack developer",
+  code: ["JavaScript", "React", "Redux", "NodeJs", "Ruby", "Ruby on Rails", "HTML5", "CSS3", "Bootstrap", 
+  "Tailwind CSS"],
+  askMeAbout: ["beach and swimming", "health and wellness", "joy and happiness", "music and dancing"],
   challenge: "I am upgrading my skills to become one of the best developers in the world",
-  funFacts: ['Upgrading to rock the world, grab me before it's too late']
+  funFacts: ['Enjoying a second of the day']
 }
 ```
 ### MY GITHUB STATISTICS
@@ -105,7 +105,7 @@ const jerryowusu = {
          '  `+.;  ;  '      :   
          :  '  |    ;       ;-. 
          ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
+[bugs] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
       
       ...........bugs are always 'jerryfied' of me
